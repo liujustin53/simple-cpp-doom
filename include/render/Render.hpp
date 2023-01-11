@@ -1,0 +1,7 @@
+#include "render/LineDef.hpp"
+#include "render/SideDef.hpp"
+#include "render/Sector.hpp"
+#include "render/Node.hpp"
+#include "render/Subsector.hpp"
+#include "render/Seg.hpp"
+#include "render/Vertex.hpp"
